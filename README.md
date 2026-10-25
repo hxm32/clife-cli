@@ -2,10 +2,11 @@
 
 A small command line tool for viewing your Caulfield Grammar School timetable from [CaulfieldLife](https://caulfieldlife.com.au).
 
-<img width="1038" height="273" alt="image" src="https://github.com/user-attachments/assets/08cd08ec-5306-45ec-bf61-94dafa80a981" />
-
 
 > **Unofficial.** This project is not affiliated with or endorsed by Caulfield Grammar School or CaulfieldLife. It uses an undocumented API that was found by inspecting network requests, so it may break without notice. Only use it with your own account.
+
+<img width="1167" height="124" alt="image" src="https://github.com/user-attachments/assets/cf427298-3589-498c-959c-c3fc90a40cc1" />
+(Teacher names in this image are censored for their privacy. It does not appear this way when actually running it.)
 
 ## Features
 
