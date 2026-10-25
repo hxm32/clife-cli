@@ -1,0 +1,12 @@
+{
+  "name": "clife",
+  "version": "1.0.0",
+  "description": "CLI for the CaulfieldLife school timetable",
+  "bin": {
+    "clife": "./clife.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
