@@ -143,7 +143,7 @@ Your token and member ID are saved to `~/.config/clife/config.json` with `600` p
 
 The CLI talks to the CaulfieldLife GraphQL API at `https://life-api.caulfieldlife.com.au/`. On login it exchanges your Microsoft JWT for a member ID using `GetSessionByJwt`. After that, `ls` and `search` use the `ClassData` query with your Microsoft JWT as the `x-community-token` header.
 
-Credit to `https://github.com/gaoDean/ttbl-cli` for inspiring this project.
+### Credit to `https://github.com/gaoDean/ttbl-cli` for inspiring this project.
 
 ## License
 
